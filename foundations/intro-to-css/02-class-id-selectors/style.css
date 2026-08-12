@@ -4,22 +4,17 @@ background-color: lightcoral;
 font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#first-id {
-    color: blue;
-    
-}
-.second {
-     font-size: 36px;
-}
-
-.third {
+.change-font-size {
     font-size: 24px;
     
+}
+#first-id {
+    color: blue;
+    font-size: 36px;
 }
 
 
 #fourth {
     background-color: lightgreen;
     font-weight: bold;
-    font-size: 24px;
 }
