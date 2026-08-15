@@ -2,19 +2,31 @@ body {
   background: gray;
   font-family: sans-serif;
 }
-
+*{
+  padding: 8px;
+  margin: 0 auto;
+}
 .card {
   width: 400px;
   background: white;
-  margin: 16px auto;
+ 
 }
 
 .title,
 .content,
 .button-container {
   background: dodgerblue;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.button-container{
+  text-align: center;
+  padding-bottom: 8px;
 }
 
 button {
   background: white;
+  display:block;
+  
 }
